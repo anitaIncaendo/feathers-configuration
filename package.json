@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "debug": "^3.0.0",
-    "config": "^1.21.0"
+    "config": "^1.26.2"
   },
   "devDependencies": {
     "babel-cli": "^6.1.4",
